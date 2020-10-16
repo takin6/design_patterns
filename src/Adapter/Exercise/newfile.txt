@@ -1,0 +1,5 @@
+#new file!!
+#Fri Sep 18 11:49:34 JST 2020
+month=10
+year=2020
+day=16
